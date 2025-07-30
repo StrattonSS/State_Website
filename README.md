@@ -34,9 +34,9 @@ This project fulfills the following course competencies:
 
 ## 🚀 Live Demo
 
-View the live site on **GitLab Pages** (deployed via CI/CD pipeline):
+View the live site on Github:
 
-🔗 https://d277-front-end-web-development-3c5379.gitlab.io/ 
+🔗 https://strattonss.github.io/State_Website/ 
 
 
 
